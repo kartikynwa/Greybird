@@ -34,7 +34,7 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     bordercolor="#666666"
+     bordercolor="#928374"
      borderopacity="1"
      inkscape:current-layer="layer9"
      inkscape:cx="9.6493349"
@@ -46,7 +46,7 @@
      inkscape:object-nodes="true"
      inkscape:object-paths="false"
      objecttolerance="10"
-     pagecolor="#3a3b39"
+     pagecolor="#32302f"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
@@ -90,7 +90,7 @@
       <stop
          id="stop19284"
          offset="0"
-         style="stop-color:#666666;stop-opacity:1;" />
+         style="stop-color:#928374;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -104,7 +104,7 @@
        d="m 388.00015,343.01754 c -1.64587,0 -2.98246,1.33658 -2.98246,2.98246 0,1.64587 1.33659,2.98246 2.98246,2.98246 1.64587,0 2.98246,-1.33659 2.98246,-2.98246 0,-1.64588 -1.33659,-2.98246 -2.98246,-2.98246 z"
        id="path9555"
        sodipodi:nodetypes="csssc"
-       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none" />
+       style="color:#d5c4a1;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#d5c4a1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none" />
   </g>
   <g
      inkscape:groupmode="layer"

@@ -32,8 +32,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#fbf1c7"
+     bordercolor="#928374"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -60,21 +60,21 @@
       <stop
          id="stop844"
          offset="0"
-         style="stop-color:#4381c1;stop-opacity:1;" />
+         style="stop-color:#458588;stop-opacity:1;" />
       <stop
          id="stop846"
          offset="1"
-         style="stop-color:#5fa0e4;stop-opacity:1" />
+         style="stop-color:#458588;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient832">
       <stop
-         style="stop-color:#4381c1;stop-opacity:1;"
+         style="stop-color:#458588;stop-opacity:1;"
          offset="0"
          id="stop828" />
       <stop
-         style="stop-color:#5fa0e4;stop-opacity:1"
+         style="stop-color:#458588;stop-opacity:1"
          offset="1"
          id="stop830" />
     </linearGradient>
@@ -100,31 +100,31 @@
   <g
      transform="matrix(2.0131679,0,0,2.0131679,-0.1053432,2.3609064)"
      id="g850"
-     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#fbf1c7;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <path
        d="m 4.778787,4.5502097 6.442426,6.4363783"
        id="path846"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#fbf1c7;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        d="M 11.218188,4.5471855 4.7818113,10.989613"
        id="path848"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#fbf1c7;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
      transform="matrix(2.0131679,0,0,2.0131679,-0.1053432,-1.1390936)"
      id="g825"
-     style="opacity:1;fill:#878787;fill-opacity:1;stroke:#1f61a9;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+     style="opacity:1;fill:#928374;fill-opacity:1;stroke:#458588;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <path
        d="m 4.778787,4.5502097 6.442426,6.4363783"
        id="path821"
-       style="fill:#878787;fill-opacity:1;stroke:#1f61a9;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#928374;fill-opacity:1;stroke:#458588;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        d="M 11.218188,4.5471855 4.7818113,10.989613"
        id="path823"
-       style="fill:#878787;fill-opacity:1;stroke:#1f61a9;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#928374;fill-opacity:1;stroke:#458588;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g

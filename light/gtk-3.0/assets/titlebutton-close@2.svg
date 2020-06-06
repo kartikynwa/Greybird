@@ -31,8 +31,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#fbf1c7"
+     bordercolor="#928374"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -55,45 +55,45 @@
   <g
      transform="matrix(2.0131679,0,0,2.0131679,-0.1053432,2.3609064)"
      id="g850"
-     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+     style="opacity:0.5;fill:none;fill-opacity:1;stroke:#fbf1c7;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <path
        d="m 4.778787,4.5502097 6.442426,6.4363783"
        id="path846"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#fbf1c7;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        d="M 11.218188,4.5471855 4.7818113,10.989613"
        id="path848"
-       style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#fbf1c7;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
      transform="matrix(2.0131679,0,0,2.0131679,-0.1053432,-1.1390936)"
      id="g825"
-     style="opacity:1;fill:#878787;fill-opacity:1;stroke:#6b6b6b;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+     style="opacity:1;fill:#928374;fill-opacity:1;stroke:#928374;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <path
        d="m 4.778787,4.5502097 6.442426,6.4363783"
        id="path821"
-       style="fill:#878787;fill-opacity:1;stroke:#6b6b6b;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#928374;fill-opacity:1;stroke:#928374;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
     <path
        d="M 11.218188,4.5471855 4.7818113,10.989613"
        id="path823"
-       style="fill:#878787;fill-opacity:1;stroke:#6b6b6b;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#928374;fill-opacity:1;stroke:#928374;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="opacity:1;fill:#878787;fill-opacity:1;stroke:#878787;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#928374;fill-opacity:1;stroke:#928374;stroke-width:1.49018872;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="g3163"
      transform="matrix(2.0131679,0,0,2.0131679,-0.1053432,0.36061942)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:#878787;fill-opacity:1;stroke:#878787;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#928374;fill-opacity:1;stroke:#928374;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3173"
        d="m 4.778787,4.5502097 6.442426,6.4363783" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#878787;fill-opacity:1;stroke:#878787;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#928374;fill-opacity:1;stroke:#928374;stroke-width:1.49018872;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path3175"
        d="M 11.218188,4.5471855 4.7818113,10.989613" />
   </g>
